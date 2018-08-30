@@ -1,91 +1,60 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Geraldi Sutanto
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Geraldi Sutanto
+Art Lover, Wannabe Linguist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:me@geraldisutanto.com">me@geraldisutanto.com</a>
+| <a href="https://geraldisutanto.com">My Webpage</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Chinese in [Xiamen, China](https://goo.gl/maps/2ebPpe8v2mK2){:target="_blank"}
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Solving business problem with technical solutions
 
+### Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cashews, Italian operas, [Abstract Nonsense](https://ncatlab.org/nlab/show/category+theory){:target="_blank"}, Dependent Types, Swimming, Badminton.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2016`
+__Asia Pacific University, Kuala Lumpur__
+- B.Sc (Hons.) Software Engineering
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2010-2013`
+__SMAK 1 Penabur, Jakarta__
+- Social Science Stream
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017`
+__Full Stack Java Developer__, 3enix Consulting Sdn Bhd
 
-- Warden
-- Minted coins
+- 1) Developed an internal web app for a Malaysian NGO. Role-based authentication, form validation,
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2014`
+__Technical Assistant__, Asia Pacific University
 
+- Troubleshoot hardware and software issues in classrooms and labs. 
+- e.g. internet connectivity, network printer, BSOD
 
+## Languages
 
-<!-- ### Footer
+- __Indonesian__ (Native)
+- __English__ (Professional Proficiency)
+- __Chinese__ (Conversational)
 
-Last updated: May 2013 -->
+### Footer
+
+Last updated: July 2018
 
 
