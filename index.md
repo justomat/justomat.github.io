@@ -6,8 +6,7 @@ title: Geraldi Sutanto
 Art Lover, Wannabe Linguist.
 
 <div id="webaddress">
-<a href="mailto:me@geraldisutanto.com">me@geraldisutanto.com</a>
-| <a href="https://geraldisutanto.com">My Webpage</a>
+  <a href="mailto:me@geraldisutanto.com">me@geraldisutanto.com</a>
 </div>
 
 
@@ -17,11 +16,11 @@ Studying Chinese in [Xiamen, China](https://goo.gl/maps/2ebPpe8v2mK2){:target="_
 
 ### Specialized in
 
-Solving business problem with technical solutions
+
 
 ### Interests
 
-Cashews, Italian operas, [Abstract Nonsense](https://ncatlab.org/nlab/show/category+theory){:target="_blank"}, Dependent Types, Swimming, Badminton.
+Cashews, Italian operas, [Abstract Nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense){:target="_blank"}, Dependent Types, Swimming, Badminton.
 
 
 ## Education
@@ -39,7 +38,14 @@ __SMAK 1 Penabur, Jakarta__
 `2017`
 __Full Stack Java Developer__, 3enix Consulting Sdn Bhd
 
-- 1) Developed an internal web app for a Malaysian NGO. Role-based authentication, form validation,
+- 1) Motormudah.com
+  - Implemented backend REST APIs for frontend UI and mobile UI, technology used: Java EE, Tomcat, Spring Boot, Hibernate ORM.
+  - Worked on the admin dashboard, making CRUD pages & forms. Bootstrap, JQuery.
+  - Developed payment module that integrates with 3rd party payment gateway and monitor fraud cases.
+  - Developed tier-based/multi-level commission module for insurance agents.
+
+- 2) Developed an internal web app for a Malaysian NGO.
+  - Spring Boot app with AngularJS frontend. Role-based authentication, form validation.
 
 `2014`
 __Technical Assistant__, Asia Pacific University
