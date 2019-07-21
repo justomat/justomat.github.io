@@ -3,52 +3,62 @@ layout: cv
 title: Geraldi Sutanto
 ---
 # Geraldi Sutanto
-Art Lover, Wannabe Linguist.
 
 <div id="webaddress">
-  <a href="mailto:me@geraldisutanto.com">me@geraldisutanto.com</a>
+  <a href="mailto:me@geraldisutanto.com">contact@geraldisutanto.com</a>
+  | <a href="https://linkedin.com/in/geraldisutanto">linkedin</a>
 </div>
-
-
-## Currently
-
-Studying Chinese in [Xiamen, China](https://goo.gl/maps/2ebPpe8v2mK2){:target="_blank"}
 
 ### Specialized in
 
-Full stack developer with strong back-end skill
+Cross-Platform Frontend development
 <br>
-_Java, Spring, ExpressJS, ReactJS, recompose, docker_
+_React, React Native, Redux, NextJS, Glamorous_
 
-### Interests
+### Current Interests
 
-Languages, Cashews, Robustas, Italian operas, [Abstract Nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense){:target="_blank"}, Dependent Types, wasm, Swimming, Badminton.
+Languages, Cashew Milk, Masala Chai, Declarative Programming, Swimming, Badminton.
 
 
 ## Education
 
-`2013-2016`
+`2018`
+__华侨大学 华文学院, Xiamen, China__
+- Chinese Language
+
+`2016`
 __Asia Pacific University, Kuala Lumpur__
 - B.Sc (Hons.) Software Engineering
 
-`2010-2013`
+`2013`
 __SMAK 1 Penabur, Jakarta__
 - Social Science Stream
 
 ## Occupation
 
+`2018`
+__Software Engineer | React Native, [Traveloka](https://traveloka.com){:target="_blank"}__
+
+- 1) Traveloka Axes Partner ([Android](https://play.google.com/store/apps/details?id=com.traveloka.axes&hl=en){:target="_blank"}/[iOS](https://apps.apple.com/id/app/traveloka-axes-partner/id1251280398){:target="_blank"})
+- Mobile App for Traveloka's suppliers for voucher redemption.
+- +Rewrite the legacy implementation and provides maintenance & bug fixes.
+- +Feature improvements: reduce battery drain from camera, instantaneous language switch, reduce crashes & ANR, split android apk to shrink build size by ~70%, integrate cocoapods to manage native iOS dependencies.
+- +Develop new features: bulk redemption, push notification.
+
 `2017`
-__Full Stack Java Developer__, 3enix Consulting Sdn Bhd
+__Software Engineer | Full Stack, [3enix Consulting Sdn Bhd](https://3enix.com)__
 
 - 1) Motormudah.com
-  - Implemented backend REST APIs for frontend UI and mobile UI, technology used: Java EE, Tomcat, Spring Boot, Hibernate ORM.
-  - Worked on the admin dashboard, making CRUD pages & forms. Bootstrap, JQuery.
+  - Insurance marketplace for Malaysian car owners.
+  - +Implemented backend REST APIs for frontend UI and mobile UI.
+  - +Technology used: Java EE, Tomcat, Spring Boot, Hibernate ORM.
+  - +worked on the admin dashboard, making CRUD pages & forms using Bootstrap & JQuery.
 
 - 2) Developed an internal web app for a Malaysian NGO.
   - Spring Boot app with AngularJS frontend. Role-based authentication, form validation.
 
 `2014`
-__Technical Assistant__, Asia Pacific University
+__Technical Assistant, Asia Pacific University__
 
 - Troubleshoot hardware and software issues in classrooms and labs. 
 - e.g. internet connectivity, network printer, BSOD
@@ -61,6 +71,6 @@ __Technical Assistant__, Asia Pacific University
 
 ### Footer
 
-Last updated: July 2018
+Last updated: July 2019
 
 
